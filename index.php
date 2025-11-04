@@ -120,8 +120,8 @@ foreach ($colors as $color) {
 // Display current date and time
 echo date(" <br> Y-m-d H:i:s");
 
-// include another PHP file
 
+// include another PHP file
 
 include 'footer.php';
 
