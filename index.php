@@ -138,6 +138,13 @@ echo "Session username is " . $_SESSION["username"] . "<br>";
 
 
 
+//math
+echo(min(0, 150, 30, 20, -8, -200));
+echo(max(0, 150, 30, 20, -8, -200));
+
+
+
+
 
 ?>
 
